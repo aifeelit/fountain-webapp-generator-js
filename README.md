@@ -1,5 +1,3 @@
-# :warning: Unmaintained
-
 This project has been **archived** and is considered **outdated** and **unmaintained**.
 
 With the massive rise of the CLI tools by each major JavaScript Web frameworks, it was become irrelevant to pursue the quest of being a competitive project scaffolder for modern Web project.
